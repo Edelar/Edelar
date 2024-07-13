@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Edelar/Edelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am a Senior Clinical Lecturer in Primary Care and Mental Health at the University of Liverpool and a General Practitioner (GP) in a local practice.
@@ -13,4 +13,4 @@ I believe that digital technologies can reduce the pressures on general practice
     
 - 🌱 While I have a PhD in my medical field (University of Birmingham, UK, 2012), I am pursuing a Master of Science in Data Science for Health and Social Care course at the University of Edinburgh in my free time.
 - 📫 My email: eduard.shantsila@liverpool.ac.uk
--->
+

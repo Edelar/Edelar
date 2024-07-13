@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-**Edelar/Edelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a Senior Clinical Lecturer in Primary Care and Mental Health at the University of Liverpool and a General Practitioner (GP) in a local practice.
 I believe that digital technologies can reduce the pressures on general practice and support everyone's efforts to be healthier and happier.
 

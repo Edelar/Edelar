@@ -9,5 +9,4 @@ I believe that digital technologies can reduce the pressures on general practice
       - developing a tool predicting the optimal skeletal muscle mass for the healthiest blood pressure.
     
 - 🌱 While I have a PhD in my medical field (University of Birmingham, UK, 2012), I am pursuing a Master of Science in Data Science for Health and Social Care course at the University of Edinburgh in my free time.
-- 📫 My email: eduard.shantsila@liverpool.ac.uk
 
